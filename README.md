@@ -5,7 +5,6 @@ My first repository
 ---
 
 ### Overview
----
 
 **Real Steel** is a 2011 American **science fiction sports** film starring Hugh Jackman. Produced and directed by Shawn Levy, the film is based on the short story "Steel", written by Richard Matheson, which was originally published in the May 1956 edition of The Magazine of Fantasy & Science Fiction, and later adapted into a 1963 Twilight Zone episode.
 
